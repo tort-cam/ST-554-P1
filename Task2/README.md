@@ -19,4 +19,14 @@ Please replace “Feedback giver #x” with a group member’s name below and ad
   + I do not have any criticism to add. You have a clear command of the language and I clearly still have a lot to learn, which is fortunate: to countermand Bradbury's Montag, "It [is] a pleasure to [_learn_]."
 
 - Feedback giver #2 Jacob
-  + item
+
+  This is a really good draft on EDA, nice transitions and sections. I think you did a good data wrangling in pandas and you sectioned the sections well and they logically flow. When you add more text, it will flowly naturally, which is one of the advantages of notebooks and you did a good job. The graphs are nicely designed. I am very critial at my job about viz and your graphs are great. I really like the graphs in "Benzene by Everything (W/SLR). The scatter with the black line really show the trend through the data, even with the noise.
+
+  If you wanted to add more introductory paragraph, I think that would help frame the notebook.
+  More code comments would help the reader understand each part. My version needs this as well.
+  Summaries between your designed sections could help the reader as well.
+
+
+  Overall, great job!
+
+  
