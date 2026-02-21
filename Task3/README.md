@@ -8,5 +8,21 @@ Please replace “Feedback giver #x” with a group member’s name below and ad
   + item
 
 
-- Feedback giver #2
-  + item
+- Cameron
+Hi Jacob! I've really got no major notes or suggestions for you. Your familiarity with Python is far beyond mine - I learned a lot from reading through your code. I can't seem to open your Task03.ipynb file in colab, but that shouldn't be a problem.
+I'm basing my feedback on the rubric provided in the general "Project 1" pdf.
+
+Introduction:
++ Great job on the header and intro information! It's very clear what you plan to do.
++ Small typo  - "This project notebook _aims to predicts_"
+
+Narrative & Markdown Use:
++ Nice very clear headers on each section, outlining what is to come.
++ I appreciate the bold text and bulleted lists
++ Conclusion helps wrap up the task.
++ Unfortunatley, because I can't open it in colab I can't see the "Table of Contents" side tab - So long as each section is its own section (which it looks like is the case), its all good.
++ You may want to add in some inline comments to mark where you are doing each of the tasks you outlined at the beginning of each step, but I think it is pretty clear as is.
+
+Coding Tasks:
++ I've got no suggestions here :)
++ I really like how you put together df_day in pt. 3
