@@ -4,8 +4,12 @@ You can provide feedback to your group members in many different ways (live in a
 
 Please replace “Feedback giver #x” with a group member’s name below and add feedback as a bulleted list below. Note: There is a pencil icon on the top right of the README file (when you are viewing the README.md file) that allows you to edit.
 
-- Feedback giver #1
-  + item
+- Jacob
+This is a good draft for sure. Nice work on getting the resolution and this looks good. The grid search and gradient decsent logic look great. I think you do a nice job explaining the math and section headers. 
+
+I know you need to finish the last section and happy to review over the weekend if complete. Definitely would like more explanations in markdown, but I understand with the process that it is WIP. I would clean up the commented code but its only a couple, but just before the final submission. I'm sure you have that on your list as well. 
+
+Overall, the code works, you have the sections and there a good draft. Good job and let us know if you want another review.
 
 
 - Cameron:
